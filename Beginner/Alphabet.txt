@@ -4,7 +4,7 @@ For capital letters, add an o to the end. If it already ends in o, pronounce it 
 
 For vowel to vowel transitions when you are putting letters together (for example, e to a which is leem), say the vowel like it is by itself. (leem would be pronounced as leem instead of leh-ehm) and if it's the same vowel, just take one vowel out and make it one letter. (uu to u)
 
-Put an a (not em) between consonants in between letters where better flow is needed (stuff like l is an example of where better flow isn't needed. for example, mulle)
+Put an a (not em) between consonants in between letters where better flow is needed (stuff like l is an example of where better flow isn't needed. for example, mulle) Pre-made words will already have required a's added, so you don't have to add them for words that are in this repo.
 
 For plurals and things that you would put an s at the end of the english word, add an s (not sor) to the end of the word.
 
