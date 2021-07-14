@@ -8,6 +8,8 @@ Put an a (not em) between consonants in between letters where better flow is nee
 
 For plurals and things that you would put an s at the end of the english word, add an s (not sor) to the end of the word.
 
+If you are making a word, and there is an o and a u together, pronounce only the u.
+
 a: em (ehm)
 b: pe (peh)
 c: cor (core)
