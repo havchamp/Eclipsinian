@@ -2,7 +2,7 @@ Official Eclipsinian Alphabet | By Noctav & HAVICK
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 For capital letters, add an o to the end. If it already ends in o, pronounce it like ooh.
 
-For vowel to vowel transitions when you are putting letters together (for example, e to a which is leem), say the vowel like it is by itself. (leem would be pronounced as leem instead of leh-ehm)
+For vowel to vowel transitions when you are putting letters together (for example, e to a which is leem), say the vowel like it is by itself. (leem would be pronounced as leem instead of leh-ehm) and if it's the same vowel, just take one vowel out and make it one letter. (uu to u)
 
 Put an a (not em) between consonants in between letters where better flow is needed (stuff like l is an example of where better flow isn't needed. for example, mulle)
 
