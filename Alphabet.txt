@@ -16,13 +16,13 @@ i: te (teh)
 j: fo (foh)
 k: koh (koh)
 l: va (vah)
-m:
-n:
-o:
-p:
-q:
-r:
-s:
+m: mu (muh)
+n: nuel (new-el)
+o: ug (uhg) (oo is oug)
+p: po (poe)
+q: lem (lehm)
+r: brel (brell)
+s: sor (soar)
 t: tor (tohr)
 u: uva (oovah)
 v: vol (voel)
