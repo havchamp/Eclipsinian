@@ -1,1 +1,6 @@
-...
+Eclipsinian Tech Words
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+toralecoramul/tocomul - tech
+poohcor - personal computer
+coropouvu - central processing unit
+neopocor - graphics processing unit
