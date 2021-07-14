@@ -6,7 +6,7 @@ For vowel to vowel transitions when you are putting letters together (for exampl
 
 Put an a (not em) between consonants in between letters where better flow is needed (stuff like l is an example of where better flow isn't needed. for example, mulle)
 
-For plurals, add an s (not sor) to the end of the word.
+For plurals and things that you would put an s at the end of the english word, add an s (not sor) to the end of the word.
 
 a: em (ehm)
 b: pe (peh)
