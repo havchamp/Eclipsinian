@@ -9,7 +9,7 @@ Person:
 he: mulle (mool-le)
 she: soramulle (soar-ah-mool-le)
 her: mullebrel (mool-le-brehl)
-you: yaugva/yagva (yah-ug-vah/yawgh-vah)
+you: yaugava/yagava (yah-ug-ah-vah/yawgh-a-vah)
 they: tormulleya/tulya (tohr-mool-lay-yah)
 we: talle (tahl-ay)
 me: mule/me (muh-le/meh)
