@@ -18,15 +18,15 @@ k: koh (koh)
 l: va (vah)
 m: mu (muh)
 n: nuel (new-el)
-o: ug (uhg) (double oo is oug) (oo-ug)
-p: kek (keck)
+o: ug (uhg) (oo is oug)
+p: po (poe)
 q: lem (lehm)
 r: brel (brell)
-s: sex (secks)
-t:
-u:
-v:
-w:
-x:
-y:
-z:
+s: sor (soar)
+t: tor (tohr)
+u: uva (oovah)
+v: vol (voel)
+w: tal (tal)
+x: xol (zol)
+y: ya (yah)
+z: kop (cop)
