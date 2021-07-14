@@ -15,7 +15,7 @@ h: mul (mool)
 i: te (teh)
 j: fo (foh)
 k: koh (koh)
-l:
+l: va (vah)
 m:
 n:
 o:
