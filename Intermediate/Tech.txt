@@ -1,6 +1,8 @@
 Eclipsinian Tech Words
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 tech - toralecoramul/tocomul
-personal computer - poocoro
-central processing unit -  coropouvu
-graphics processing unit - neulopouvu
+Personal Computer(PC) - pooelabrelsorugneemva corougmupouvatorelabrel(poocoro)
+Central Processing Unit(CPU) -  coroelanetorbrelemava poobrelugcorelsorasoratenenuel uvaonetetor(coropouvu)
+Graphics Processing Unit(GPU) - nuelobrelemapomultecorasor poobrelugcorelsorasoratenenuel uvaonetetor(neulopouvu)
+Solid State Drive(SSD) - sorougavatepe sorotoremtorel raobrelatevolel(sorosororao)
+Hard Disk Drive(HDD) - muloemabrelra raotesorkop raobrelatevolel(muloraorao)
