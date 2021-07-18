@@ -1,9 +1,9 @@
 Eclipsinian Common Words
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-the: toramulle/tulle (tohr-ah-mool-lay/tool-lay)
+the: toramulle (tohr-ah-mool-lay/tool-lay)
 it: tetor (tay-tor)
 and: emanera (ehm-ah-nehr-ah)
-there: toramullebrelle/tullebrelle (tohr-ah-mool-lay-brehl-lay/tool-lay-brehl-lay)
+there: toramullebrelle (tohr-ah-mool-lay-brehl-lay/tool-lay-brehl-lay)
 here: mullebrelle (mool-lay-brehl-lay)
 is: tesor (tay-soar)
 are: emabrelle (ehm-ah-brehl-lay)
