@@ -1,23 +1,19 @@
 Eclipsinian Pronouns
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Words in Eclipsinian are often shortened down versions of their spelt out self in english. For example, m is mu and e is le, so me would be mule but it can also be shortened to me
-
-They could also be adapted to similar words, for example their could be tultebrel but to make it easier to remember it is spelt like theyr and shortened to tulyabrel.
-
 Person:
 
 he: mulle (mool-le)
 she: soramulle (soar-ah-mool-le)
 her: mullebrel (mool-le-brehl)
-you: yaugava/yagava (yah-ug-ah-vah/yawgh-a-vah)
-they: tormulleya/tulya (tohr-mool-lay-yah)
+you: yaugava (yah-ug-ah-vah/yawgh-a-vah)
+they: tormulleya (tohr-mool-lay-yah)
 we: talle (tahl-ay)
-me: mule/me (muh-le/meh)
+me: mule (muh-le/meh)
 
 Having:
 
-his: multesor/mutes (mool-teh-soar/moo-tehs)
-your: yaugavabrel/yagavel (yawgh-vah-brehl/yawgh-vehl)
-their: tormulletebrel/tulyabrel (tohr-mool-leh-teh-brehl/tuhl-yah-brehl)
-our: uguvabrel/guvabrel (oogh-oovah-brehl/goovah-brehl)
-my: muya/my (mooh-yuh/me)
+his: multesor (mool-teh-soar/moo-tehs)
+your: yaugavabrel (yawgh-vah-brehl/yawgh-vehl)
+their: tormulletebrel (tohr-mool-leh-teh-brehl/tuhl-yah-brehl)
+our: uguvabrel (oogh-oovah-brehl/goovah-brehl)
+my: muya (mooh-yuh/me)
